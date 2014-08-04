@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63999C42-C0CF-4C7F-AD6E-14D232198677</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuicklookVideo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF917827-DCAB-45A5-A7BB-1DB078E29AB2</key>
+		<string>https://github.com/besi/quicklook-dot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuicklookVideo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF917827-DCAB-45A5-A7BB-1DB078E29AB2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/besi/quicklook-dot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF917827-DCAB-45A5-A7BB-1DB078E29AB2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF917827-DCAB-45A5-A7BB-1DB078E29AB2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>quicklook-movie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
